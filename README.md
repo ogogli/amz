@@ -86,8 +86,3 @@ Distributed under the MIT License. See LICENSE for more information.
 👥 Acknowledgments
 Study and Research Group in Big Data (WDS) — University of São Paulo (USP)
 National Oceanic and Atmospheric Administration (NOAA) for open-access data.
-
-### O que este README faz pelo seu projeto:
-1. **Atração de Desenvolvedores:** Usa *badges* no topo que dão um visual moderno e mostram de cara as tecnologias do projeto.
-2. **Clareza Científica:** Explica rapidamente termos como "interpolação bicúbica", "filtro gaussiano" e "advecção de partículas em canais RGB". Se um desenvolvedor ou cientista entrar no seu GitHub, ele entenderá o alto nível do projeto imediatamente.
-3. **Guia de Instalação Realista:** Mostra como configurar o ambiente virtual do Python e ensina a configurar o `cron` job baseado exatamente na lógica de latência da NOAA que documentamos no artigo.
